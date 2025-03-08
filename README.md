@@ -1,3 +1,13 @@
+If you need you can just download Project new.zip file 
+unzip it 
+open the folder in VS code or any other editor 
+install the required libraries (you can check the imprted libraries and just install them in your terminal)
+and run the program
+
+
+
+
+
 Face Recognition & Attendance System
 This project is a Python-based application that uses face recognition technology to identify students and mark their attendance automatically. It leverages the face_recognition library alongside OpenCV for image processing and Tkinter for the graphical user interface (GUI). The system can register new students, mark attendance via webcam or uploaded images, and maintain an attendance log.
 
